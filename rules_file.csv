@@ -1,0 +1,35 @@
+output;input;type
+Beta-CrossLaps;Vit D Total;Prv: Laboratory
+Osteocalcin;Beta-CrossLaps;Prv: Laboratory
+Osteocalcin;Beta-CrossLaps;Gov: Hospital
+PTH;Vit D Total;Prv: Laboratory
+PTH;Vit D Total;Gov: Hospital
+ProBNP;TNT;Gov: Hospital
+ProBNP;TNT;Prv: Laboratory
+PCT;ProBNP;Gov: Hospital
+PCT;TNT;Prv: Laboratory
+S100;ProBNP;Gov: Hospital
+AMH;FSH;All
+HGH;ACTH;-1
+IGF-1;ACTH;All
+ACTH;CORT;Prv: Laboratory
+ACTH;CORT;Gov: Hospital
+C-Peptide;CORT;All
+INS;CORT;All
+Cyclosporine;PTH;Prv: Laboratory
+Cyclosporine;PTH;Gov: Hospital
+Tacrolimus;PTH;Gov: Hospital
+Tacrolimus;PTH;Prv: Laboratory
+CA72-4;CA 19-9;All
+Cyfra 21-1;CA 15-3;All
+FPSA;PSA;All
+HE4;CA 125;Prv: Laboratory
+SCC;CA 15-3;All
+HBA1C;GLU;Gov: Hospital
+HBA1C;GLU;Prv: Laboratory
+Anti-TG;TSH;All
+Anti-TPO;TSH;All
+Anti-TSHR;TSH;-1
+FT3;TSH;-1
+FT4;TSH;-1
+hCT;Anti-TPO;All
