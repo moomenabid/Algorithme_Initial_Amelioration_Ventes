@@ -1,4 +1,4 @@
-# Algorithme_Initial_Amelioration_Ventes
+# Remplissage-des-canaux-de-vente-par-regression-lineaire-multiple
 
 Ceci est un __algorithme de remplissage des canaux de ventes__ amélioré qui se base sur les __corrélations__ entre les produits pour savoir quels produits sont les plus liés à un certain produit cible.  
 
